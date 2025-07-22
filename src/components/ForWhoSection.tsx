@@ -37,7 +37,7 @@ const ForWhoSection = () => {
   const targetAudience = [
     {
       icon: <StudentIcon />,
-                      title: "תלמידים שעולים לכיתה ה'",
+                      title: "תלמידים שעולים לכיתה ד'",
       description: ""
     },
     {

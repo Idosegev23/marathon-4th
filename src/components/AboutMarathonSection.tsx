@@ -77,7 +77,7 @@ const AboutMarathonSection = () => {
               transition={{ duration: 0.8, delay: 0.2 }}
               className="text-2xl md:text-3xl mb-16 text-center text-darker leading-relaxed font-medium"
             >
-              המעבר לכיתה ה&rsquo; הוא שלב חשוב ומרגש –
+              המעבר לכיתה ד&rsquo; הוא שלב חשוב ומרגש –
               השנתיים האחרונות בבית ספר יסודי ואז לחטיבה. השיעורים באנגלית הופכים למורכבים, לומדים טקסטים שלמים, מבינים הוראות באנגלית, כותבים תשובות ויש יותר דקדוק ודרישה להתבטא בכתב ובעל פה.            </motion.p>
 
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">

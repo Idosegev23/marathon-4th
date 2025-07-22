@@ -54,7 +54,7 @@ const HeroSection = () => {
               className="text-2xl md:text-3xl lg:text-4xl font-bold mb-8 text-pastel-blue leading-relaxed"
             >
                               מרתון קיץ באנגלית<br />
-                לילדים שעולים לכיתה ה&rsquo;
+               לילדים שעולים לכיתה ד&rsquo;
             </motion.p>
 
             {/* שלושת העמודים */}

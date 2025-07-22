@@ -202,7 +202,7 @@ const RegistrationSection = () => {
           id="קבוצות"
         >
           <h3 className="text-3xl md:text-4xl font-black mb-12 text-center text-pastel-coral">
-            קבוצות מרתון כיתה ה&rsquo;
+            קבוצות מרתון כיתה ד&rsquo;
           </h3>
           
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-4xl mx-auto">
@@ -239,27 +239,27 @@ const RegistrationSection = () => {
                 <div className="grid grid-cols-2 gap-2 mb-3">
                   <div className="bg-white/30 rounded-lg p-2 text-center border border-white/30">
                     <div className="text-xs opacity-80">מפגש 1</div>
-                    <div className="font-bold">18.8</div>
+                    <div className="font-bold">17.8</div>
                   </div>
                   <div className="bg-white/30 rounded-lg p-2 text-center border border-white/30">
                     <div className="text-xs opacity-80">מפגש 2</div>
-                    <div className="font-bold">21.8</div>
+                    <div className="font-bold">20.8</div>
                   </div>
                   <div className="bg-white/30 rounded-lg p-2 text-center border border-white/30">
                     <div className="text-xs opacity-80">מפגש 3</div>
-                    <div className="font-bold">25.8</div>
+                    <div className="font-bold">24.8</div>
                   </div>
                   <div className="bg-white/30 rounded-lg p-2 text-center border border-white/30">
                     <div className="text-xs opacity-80">מפגש 4</div>
-                    <div className="font-bold">28.8</div>
+                    <div className="font-bold">27.8</div>
                   </div>
                   <div className="bg-white/30 rounded-lg p-2 text-center border border-white/30">
                     <div className="text-xs opacity-80">מפגש 5</div>
-                    <div className="font-bold">2.9</div>
+                    <div className="font-bold">3.9</div>
                   </div>
                   <div className="bg-white/30 rounded-lg p-2 text-center border border-white/30">
                     <div className="text-xs opacity-80">מפגש 6</div>
-                    <div className="font-bold">7.9</div>
+                    <div className="font-bold">10.9</div>
                   </div>
                 </div>
                 <div className="bg-white/40 rounded-lg p-2 text-center border border-white/40">
