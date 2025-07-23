@@ -75,11 +75,13 @@ const AboutMarathonSection = () => {
               whileInView={{ opacity: 1 }}
               viewport={{ once: true }}
               transition={{ duration: 0.8, delay: 0.2 }}
-              className="text-2xl md:text-3xl mb-16 text-center text-darker leading-relaxed font-medium"
             >
-              המעבר לכיתה ד&rsquo; הוא שלב חשוב ומרגש –
-              השנתיים האחרונות בבית ספר יסודי ואז לחטיבה. השיעורים באנגלית הופכים למורכבים, לומדים טקסטים שלמים, מבינים הוראות באנגלית, כותבים תשובות ויש יותר דקדוק ודרישה להתבטא בכתב ובעל פה.            </motion.p>
-
+              {/* התוכן של הפסקה כאן */}
+            </motion.p>
+              className="text-2xl md:text-3xl mb-16 text-center text-darker leading-relaxed font-medium"
+              המעבר לכיתה ד&rsquo; היא נקודת מפנה בנאנגלית. –
+              זה השלב שבו מסיימים לבסס את היסודות ומתחילים לצלול לקריאת טקסטים קצרים, הבנת הנשמע, זיהוי הגיות שונות וצלילים חדשים.
+אבל מה קורה כשעדיין אין שליטה מלאה אפילו ב־A-B-C? זו בדיוק ההזדמנות לתת להם גישה חדשה. במרתון שלנו נלמד אסטרטגיות עבודה שונות, נבנה ביטחון ונצמצם פערים כדי לאפשר לילדים לפתוח את השנה במקום של הבנה, הצלחה ותחושת מסוגלות
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
               <motion.div
                 initial={{ opacity: 0, x: -50 }}

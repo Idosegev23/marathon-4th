@@ -89,7 +89,7 @@ const RegistrationSection = () => {
                 icon: <ChatIcon />,
                 number: "4",
                 title: "הכיף מתחיל!",
-                description: "תוכנית מפורטת למרתון והודעה אישית עם הצגה עצמית. נתראה ב-27.7!"
+                description: "תוכנית מפורטת למרתון והודעה אישית עם הצגה עצמית. נתראה ב-17.8!"
               }
             ].map((step, index) => (
               <motion.div
