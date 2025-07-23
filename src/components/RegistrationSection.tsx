@@ -259,7 +259,7 @@ const RegistrationSection = () => {
                   </div>
                   <div className="bg-white/30 rounded-lg p-2 text-center border border-white/30">
                     <div className="text-xs opacity-80">מפגש 6</div>
-                    <div className="font-bold">10.9</div>
+                    <div className="font-bold">11.9</div>
                   </div>
                 </div>
                 <div className="bg-white/40 rounded-lg p-2 text-center border border-white/40">
